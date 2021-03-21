@@ -13,7 +13,7 @@ I changed his code so I could use only three buttons (pause, black and white) to
 
 -Most used FIDE time settings on setup
 
--bonus time
+-Bonus time function
 
 ## Parts
 -Arduino Nano
