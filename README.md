@@ -15,6 +15,8 @@ I changed his code so I could use only three buttons (pause, black and white) to
 
 -Bonus time function
 
+[finalChessClock](finalChessClock.jpeg)
+
 ## Parts
 -Arduino Nano
 
