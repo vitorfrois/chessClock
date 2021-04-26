@@ -23,7 +23,6 @@ I changed his code so I could use only three buttons (pause, black and white) to
 -Three big strong buttons
 
 ## Updates
-The project is currently stuck, since the Arduino Nano I was using for it is damaged and I couldn't find a new one.
+I brought a new Arduino and made a wood mdf wood box to put the clock. I still have to put everything togheter.
 
-Also, I still need to print a 3D box to the clock or find one, making it playable. 
 
